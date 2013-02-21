@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsService", "WindowsService\WindowsService.csproj", "{658B0CA1-47DE-4599-A0EF-63997BC6725F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsService.Test", "WindowsService.Test\WindowsService.Test.csproj", "{AA3ED5AF-B1EE-4FAF-A5A0-94C8B7D67553}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsService.Service", "WindowsService.Service\WindowsService.Service.csproj", "{89E0DE06-11A4-4D81-8352-0E1228222295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{658B0CA1-47DE-4599-A0EF-63997BC6725F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658B0CA1-47DE-4599-A0EF-63997BC6725F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658B0CA1-47DE-4599-A0EF-63997BC6725F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658B0CA1-47DE-4599-A0EF-63997BC6725F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA3ED5AF-B1EE-4FAF-A5A0-94C8B7D67553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3ED5AF-B1EE-4FAF-A5A0-94C8B7D67553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3ED5AF-B1EE-4FAF-A5A0-94C8B7D67553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3ED5AF-B1EE-4FAF-A5A0-94C8B7D67553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89E0DE06-11A4-4D81-8352-0E1228222295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E0DE06-11A4-4D81-8352-0E1228222295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E0DE06-11A4-4D81-8352-0E1228222295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E0DE06-11A4-4D81-8352-0E1228222295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
